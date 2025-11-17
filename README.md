@@ -41,4 +41,17 @@ I'm a passionate Full Stack Developer focused on building efficient, scalable, a
 
 ### 📈 My GitHub Activity
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohammednawaz)](https://github.com/Mohammednawaz/github-readme-stats))
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohammednawaz77&show_icons=true&theme=codeSTACKr
+)](https://github.com/Mohammednawaz/github-readme-stats)
+
+[![My GitHub Stats](https://github-readme-activity-graph.vercel.app/graph?username=Mohammednawaz77&theme=react-dark&hide_border=true&area=tru
+)](https://github.com/Mohammednawaz/github-readme-stats)
+
+[![My GitHub Stats](https://streak-stats.demolab.com/?user=Mohammednawaz77&theme=codeSTACKr
+)](https://github.com/Mohammednawaz/github-readme-stats) 
+
+[![My GitHub Stats](https://github-profile-trophy.vercel.app/?username=Mohammednawaz77&margin-w=10&theme=codeSTACKr
+)](https://github.com/Mohammednawaz/github-readme-stats)
+
+[![My GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mohammednawaz77&theme=codeSTACKr
+)](https://github.com/Mohammednawaz/github-readme-stats)
